@@ -123,8 +123,8 @@ Accuracy: 91.67% (9167/10000)
 
 **🧪 Example Output:**
 ```
-Training with 100 samples...
-Round 500, Cost: 0.0283
+Training with 400 samples...
+Round 400, Cost: 0.0283
 Testing with 50 samples...
 Model accuracy on this batch: 86.00%
 ```
