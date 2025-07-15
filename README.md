@@ -145,14 +145,14 @@ Model accuracy on this batch: 86.00%
 ### GPU Version
 Cost vs Epoch graph from `Model_Full_Run_GPU_only.ipynb`:
 
-![GPU Graph](graph_gpu.png)
+![GPU Graph](assets/graph_gpu.png)
 
 ---
 
 ### CPU Version
 Cost vs Training Rounds graph from `Model-SmallBatch-CPU.ipynb`:
 
-![CPU Graph](graph_cpu.png)
+![CPU Graph](assets/graph_cpu.png)
 
 
 ## 🧑‍💻 Author
